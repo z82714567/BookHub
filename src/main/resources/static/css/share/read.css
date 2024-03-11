@@ -1,0 +1,62 @@
+.share1--main-div{
+    width: 90%;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.share1--header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.share1--header span{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.share1--body--read{
+	width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.share1--book-list-box{
+    display: flex;
+    flex-flow:row wrap;
+    padding: 10px;
+}
+
+.share1--book-box{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 250px;
+    cursor: pointer;
+}
+
+.share1--img-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.share1--book-img{
+    width: 200px;
+}
+
+.share1--content-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
